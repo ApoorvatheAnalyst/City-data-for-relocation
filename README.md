@@ -1,2 +1,2 @@
 # City data for relocation
-NIIT project
+Done a analysis on regional data to find best relocation area for bachelors and families.
